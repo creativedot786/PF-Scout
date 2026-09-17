@@ -22,3 +22,4 @@ npx vercel dev
 ```
 
 Add an `ANTHROPIC_API_KEY` to the environment. Listings are seeded sample data; photos are Unsplash placeholders.
+
