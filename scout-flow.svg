@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" font-family="Inter, -apple-system, Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#5B5B63"/></marker>
+    <marker id="arrc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#EF5E4E"/></marker>
+  </defs>
+  <rect width="1200" height="520" fill="#FFFFFF"/>
+
+  <!-- lanes -->
+  <text x="60" y="150" font-size="13" fill="#8E8E96" letter-spacing="1.5" font-weight="600">MODEL · MEANING AND LANGUAGE</text>
+  <text x="60" y="380" font-size="13" fill="#8E8E96" letter-spacing="1.5" font-weight="600">CODE · RULES AND COUNTING</text>
+  <line x1="60" y1="265" x2="1140" y2="265" stroke="#E6E2DC" stroke-dasharray="4 6"/>
+
+  <!-- person -->
+  <g>
+    <circle cx="110" cy="62" r="30" fill="#EF5E4E"/>
+    <text x="110" y="68" text-anchor="middle" font-size="18" fill="#fff" font-weight="600">You</text>
+    <text x="110" y="112" text-anchor="middle" font-size="13" fill="#5B5B63">say what you want</text>
+  </g>
+
+  <!-- 1 understand -->
+  <g>
+    <rect x="200" y="170" width="250" height="80" rx="14" fill="#FBE9E5" stroke="#EF5E4E" stroke-width="1.5"/>
+    <text x="325" y="200" text-anchor="middle" font-size="17" font-weight="600" fill="#1B1B1F">1 · Understand</text>
+    <text x="325" y="224" text-anchor="middle" font-size="13" fill="#5B5B63">preferences + where they came from</text>
+  </g>
+
+  <!-- 2 enforce and match -->
+  <g>
+    <rect x="200" y="400" width="250" height="80" rx="14" fill="#F3F1ED" stroke="#C4C4CA" stroke-width="1.5"/>
+    <text x="325" y="430" text-anchor="middle" font-size="17" font-weight="600" fill="#1B1B1F">2 · Enforce and match</text>
+    <text x="325" y="454" text-anchor="middle" font-size="13" fill="#5B5B63">results never looser than the memory</text>
+  </g>
+
+  <!-- 3 find the way out -->
+  <g>
+    <rect x="520" y="400" width="250" height="80" rx="14" fill="#F3F1ED" stroke="#C4C4CA" stroke-width="1.5"/>
+    <text x="645" y="430" text-anchor="middle" font-size="17" font-weight="600" fill="#1B1B1F">3 · Find the way out</text>
+    <text x="645" y="454" text-anchor="middle" font-size="13" fill="#5B5B63">if nothing fits, which one thing to relax</text>
+  </g>
+
+  <!-- 4 reply -->
+  <g>
+    <rect x="840" y="170" width="250" height="80" rx="14" fill="#FBE9E5" stroke="#EF5E4E" stroke-width="1.5"/>
+    <text x="965" y="200" text-anchor="middle" font-size="17" font-weight="600" fill="#1B1B1F">4 · Reply</text>
+    <text x="965" y="224" text-anchor="middle" font-size="13" fill="#5B5B63">what changed, what it did</text>
+  </g>
+
+  <!-- screen -->
+  <g>
+    <rect x="860" y="30" width="210" height="64" rx="12" fill="#FFFFFF" stroke="#1B1B1F" stroke-width="1.5"/>
+    <text x="965" y="56" text-anchor="middle" font-size="15" font-weight="600" fill="#1B1B1F">On screen</text>
+    <text x="965" y="76" text-anchor="middle" font-size="12" fill="#5B5B63">memory · message · results</text>
+  </g>
+
+  <!-- arrows -->
+  <path d="M140 70 L200 70 L200 165" fill="none" stroke="#5B5B63" stroke-width="1.8" marker-end="url(#arr)"/>
+  <path d="M325 250 L325 395" fill="none" stroke="#5B5B63" stroke-width="1.8" marker-end="url(#arr)"/>
+  <path d="M450 440 L515 440" fill="none" stroke="#5B5B63" stroke-width="1.8" marker-end="url(#arr)"/>
+  <text x="482" y="428" text-anchor="middle" font-size="11" fill="#8E8E96">no match</text>
+  <path d="M770 440 L965 440 L965 255" fill="none" stroke="#5B5B63" stroke-width="1.8" marker-end="url(#arr)"/>
+  <path d="M450 480 Q 645 515 965 490 L965 470" fill="none" stroke="#5B5B63" stroke-width="1.8" stroke-dasharray="5 5" marker-end="url(#arr)"/>
+  <text x="705" y="510" text-anchor="middle" font-size="11" fill="#8E8E96">matches</text>
+  <path d="M965 165 L965 100" fill="none" stroke="#5B5B63" stroke-width="1.8" marker-end="url(#arr)"/>
+  <path d="M855 62 L160 62" fill="none" stroke="#EF5E4E" stroke-width="1.8" marker-end="url(#arrc)"/>
+  <text x="510" y="52" text-anchor="middle" font-size="12" fill="#EF5E4E" font-weight="500">you correct, change, or steer</text>
+</svg>

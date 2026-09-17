@@ -1,0 +1,319 @@
+{
+ "Dubai Marina": [
+  "marina",
+  "the marina",
+  "dubai marina",
+  "marina walk"
+ ],
+ "Jumeirah Beach Residence": [
+  "jbr",
+  "jumeirah beach residence",
+  "the walk",
+  "the beach jbr"
+ ],
+ "Jumeirah Lakes Towers": [
+  "jlt",
+  "jumeirah lakes towers",
+  "jumeirah lake towers",
+  "lakes towers",
+  "dmcc"
+ ],
+ "Business Bay": [
+  "business bay",
+  "bay",
+  "businessbay",
+  "the bay"
+ ],
+ "Downtown Dubai": [
+  "downtown",
+  "downtown dubai",
+  "burj khalifa area",
+  "burj area",
+  "dubai mall area",
+  "boulevard"
+ ],
+ "DIFC": [
+  "difc",
+  "financial centre",
+  "financial center",
+  "dubai international financial centre",
+  "gate avenue"
+ ],
+ "Al Barsha": [
+  "barsha",
+  "al barsha",
+  "barsha 1",
+  "al barsha 1",
+  "al barsha south",
+  "barsha south",
+  "mall of the emirates area",
+  "moe area"
+ ],
+ "Barsha Heights": [
+  "tecom",
+  "barsha heights",
+  "al barsha heights"
+ ],
+ "Jumeirah Village Circle": [
+  "jvc",
+  "jumeirah village circle",
+  "jumeirah village",
+  "village circle"
+ ],
+ "Jumeirah Village Triangle": [
+  "jvt",
+  "jumeirah village triangle",
+  "village triangle"
+ ],
+ "Dubai Hills Estate": [
+  "dubai hills",
+  "hills estate",
+  "dubai hills estate",
+  "hills"
+ ],
+ "Arabian Ranches": [
+  "ranches",
+  "arabian ranches",
+  "arabian ranches 1",
+  "arabian ranches 2",
+  "arabian ranches 3",
+  "ranches 2",
+  "ranches 3"
+ ],
+ "Mirdif": [
+  "mirdif",
+  "mirdiff",
+  "mirdif villas",
+  "uptown mirdif"
+ ],
+ "Jumeirah": [
+  "jumeirah",
+  "jumeriah",
+  "jumeirah 1",
+  "jumeirah 2",
+  "jumeirah 3",
+  "umm suqeim",
+  "um suqeim",
+  "jumeirah beach road"
+ ],
+ "Palm Jumeirah": [
+  "palm",
+  "the palm",
+  "palm jumeirah",
+  "palm jumeriah",
+  "shoreline",
+  "fronds"
+ ],
+ "Al Furjan": [
+  "furjan",
+  "al furjan",
+  "al-furjan"
+ ],
+ "Town Square": [
+  "town square",
+  "nshama",
+  "townsquare",
+  "town sq"
+ ],
+ "Damac Hills 2": [
+  "damac hills 2",
+  "akoya oxygen",
+  "akoya 2",
+  "damac hills two"
+ ],
+ "Damac Hills": [
+  "damac hills",
+  "akoya",
+  "damac hills 1"
+ ],
+ "Dubai Sports City": [
+  "sports city",
+  "dsc",
+  "dubai sports city"
+ ],
+ "Motor City": [
+  "motor city",
+  "motorcity",
+  "green community motor city"
+ ],
+ "Dubai Creek Harbour": [
+  "creek harbour",
+  "creek harbor",
+  "dubai creek harbour",
+  "dch",
+  "creek"
+ ],
+ "Discovery Gardens": [
+  "discovery gardens",
+  "discovery"
+ ],
+ "International City": [
+  "international city",
+  "intl city"
+ ],
+ "Dubai Silicon Oasis": [
+  "dso",
+  "silicon oasis",
+  "dubai silicon oasis"
+ ],
+ "Dubai Investment Park": [
+  "dip",
+  "dubai investment park",
+  "dubai investments park",
+  "green community dip"
+ ],
+ "Dubai Production City": [
+  "impz",
+  "production city",
+  "dubai production city"
+ ],
+ "Dubai South": [
+  "dubai south",
+  "dwc",
+  "expo city",
+  "expo"
+ ],
+ "Mohammed Bin Rashid City": [
+  "mbr city",
+  "mbr",
+  "mohammed bin rashid city",
+  "sobha hartland",
+  "hartland",
+  "meydan",
+  "district one"
+ ],
+ "Jumeirah Golf Estates": [
+  "jge",
+  "golf estates",
+  "jumeirah golf estates"
+ ],
+ "The Springs": [
+  "springs",
+  "the springs"
+ ],
+ "The Meadows": [
+  "meadows",
+  "the meadows"
+ ],
+ "The Lakes": [
+  "lakes",
+  "the lakes"
+ ],
+ "The Greens": [
+  "greens",
+  "the greens",
+  "the views",
+  "views"
+ ],
+ "Emirates Hills": [
+  "emirates hills"
+ ],
+ "Jumeirah Park": [
+  "jumeirah park"
+ ],
+ "Jumeirah Islands": [
+  "jumeirah islands"
+ ],
+ "Deira": [
+  "deira"
+ ],
+ "Bur Dubai": [
+  "bur dubai",
+  "burdubai"
+ ],
+ "Al Karama": [
+  "karama",
+  "al karama"
+ ],
+ "Al Satwa": [
+  "satwa"
+ ],
+ "Al Quoz": [
+  "al quoz",
+  "quoz"
+ ],
+ "Al Nahda": [
+  "al nahda",
+  "nahda"
+ ],
+ "Al Qusais": [
+  "qusais",
+  "al qusais"
+ ],
+ "Dubailand": [
+  "dubailand",
+  "dubai land",
+  "remraam",
+  "mudon",
+  "serena",
+  "villanova",
+  "the valley",
+  "damac lagoons",
+  "tilal al ghaf",
+  "arjan",
+  "majan",
+  "liwan"
+ ],
+ "Bluewaters": [
+  "bluewaters",
+  "bluewaters island"
+ ],
+ "Dubai Harbour": [
+  "dubai harbour",
+  "emaar beachfront",
+  "beachfront"
+ ],
+ "City Walk": [
+  "city walk",
+  "al wasl",
+  "citywalk"
+ ],
+ "Al Jaddaf": [
+  "jaddaf",
+  "al jaddaf",
+  "culture village",
+  "jaddaf waterfront"
+ ],
+ "Dubai Festival City": [
+  "festival city",
+  "dfc"
+ ],
+ "Dubai Healthcare City": [
+  "healthcare city",
+  "dhcc"
+ ],
+ "Dubai Media City": [
+  "media city",
+  "dmc",
+  "internet city",
+  "dic",
+  "knowledge park",
+  "al sufouh",
+  "sufouh"
+ ],
+ "Nad Al Sheba": [
+  "nad al sheba",
+  "nas"
+ ],
+ "Al Warqa": [
+  "al warqa",
+  "warqa"
+ ],
+ "Al Rashidiya": [
+  "rashidiya",
+  "al rashidiya"
+ ],
+ "Dubai Studio City": [
+  "studio city"
+ ],
+ "Dubai Science Park": [
+  "science park"
+ ],
+ "The Sustainable City": [
+  "sustainable city"
+ ],
+ "Jebel Ali": [
+  "jebel ali",
+  "jebel ali village"
+ ]
+}
