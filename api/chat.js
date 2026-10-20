@@ -240,7 +240,10 @@ function describeListing(l, lastIds) {
 /* ------------------------------------------------------------------ */
 /* handler                                                              */
 /* ------------------------------------------------------------------ */
-const client = new Anthropic();
+// An org-level key needs the workspace named explicitly; a workspace-scoped key doesn't.
+const client = new Anthropic(process.env.ANTHROPIC_WORKSPACE_ID
+  ? { defaultHeaders: { "anthropic-workspace-id": process.env.ANTHROPIC_WORKSPACE_ID } }
+  : {});
 
 export default async function handler(req, res) {
   const origin = req.headers.origin || "";
