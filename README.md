@@ -2,7 +2,7 @@
 
 A design assessment for Property Finder: **Scout**, a conversational property search for renting in Dubai.
 
-**Try it:** https://scout-prototype-omega.vercel.app (best on a phone)
+**Try it:** https://pfscout-prototype.vercel.app (best on a phone)
 
 ## What it does
 

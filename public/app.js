@@ -13,7 +13,7 @@ const el = {
 };
 const LOCAL = /^(localhost|127\.0\.0\.1)$/.test(location.hostname);
 const MOCK = LOCAL && new URLSearchParams(location.search).has("mock");
-const API_BASE = LOCAL ? "https://scout-prototype-omega.vercel.app" : "";
+const API_BASE = LOCAL ? "https://pfscout-prototype.vercel.app" : "";
 const SESSION_CAP = 15;
 let LISTINGS = [];
 fetch("data/listings.json").then((r) => r.json()).then((d) => (LISTINGS = d));

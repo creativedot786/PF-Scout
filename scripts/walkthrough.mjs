@@ -1,6 +1,6 @@
 // Replays a conversation against the live API and checks the things that went wrong before.
 // usage: node scripts/walkthrough.mjs [baseUrl]
-const BASE = process.argv[2] || "https://scout-prototype-omega.vercel.app";
+const BASE = process.argv[2] || "https://pfscout-prototype.vercel.app";
 const turns = [
   "Need 2 bedroom near metro",
   "looking for 3 bed in jvc under 130k",
